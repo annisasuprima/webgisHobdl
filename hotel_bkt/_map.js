@@ -1,5 +1,5 @@
         var map;
-        var server = ipServerHotel;
+        var server = "https://webgishotelbkt.herokuapp.com/hotel_bkt/";
         var cekRadiusStatus = "off";   //RADIUS
         var circles = []; //RADIUS
         var rad; //RADIUS
